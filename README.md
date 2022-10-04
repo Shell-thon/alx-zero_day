@@ -1,1 +1,1 @@
-My first readme
+ Project View Restricted for Manager only
